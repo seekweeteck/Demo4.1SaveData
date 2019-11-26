@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo 4.1 Save Data</string>
+    <string name="edit">Edit</string>
+    <string name="pref_file_name">my.edu.tarc.demo41savedata</string>
+    <string name="name">Name</string>
+    <string name="default_name">No name</string>
+    <string name="done">Done</string>
+</resources>
